@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1701597504
+falk.png::CompressedTexture2D::4036504562211188070::1701565777::1701565777::1::::<><>::
+icon.svg::CompressedTexture2D::2038620942096396126::1701560324::1701560338::1::::<><>::
+image_loader.gd::GDScript::-1::1701597059::0::1::::<>Node2D<>::
+opaque.gd::GDScript::-1::1701597294::0::1::::<>Node<>::
+opaque.tscn::PackedScene::2679123239670173944::1701597306::0::1::::<><>::res://image_loader.gd<>uid://bxrkv1kierl4y::::res://falk.png
+README.md::TextFile::-1::1701560577::0::1::::<><>::
